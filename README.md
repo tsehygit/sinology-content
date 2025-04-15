@@ -1,2 +1,2 @@
 # sinology-content
-漢學材料
+漢學資源
